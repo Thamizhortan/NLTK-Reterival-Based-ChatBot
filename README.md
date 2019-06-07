@@ -14,3 +14,6 @@ After NLTK has been downloaded, install required packages
     nltk.download('popular', quiet=True) # for downloading popular packages
     nltk.download('punkt') 
     nltk.download('wordnet') 
+Usage:
+     
+     python chatbot.py
